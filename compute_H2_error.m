@@ -2,12 +2,16 @@
 % Function that calculates the error between the experimental and simulated
 % current for H2
 %
-%
-% Date: April 24, 2023
-% Kaitlin Corpus 
+%    Date: Apr 25, 2023
 % 
+% (c) Kaitlin Corpus, LBNL. 
 %
-%==========================================================================
+% This code is licensed under a
+% MIT License.
+% You should have received a copy of the license along with this
+% work. If not, see <https://opensource.org/license/mit/>.
+% =========================================================================
+
 
 function H2_error = compute_H2_error(x) % Output is the error and input is an array of the kinetic parameters that will be fitted
 

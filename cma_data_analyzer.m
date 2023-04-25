@@ -1,12 +1,16 @@
 %==========================================================================
 % Data set analyzer for use in error functions
 %
-%
-% Date: April 24, 2023
-% Kaitlin Corpus 
+%    Date: Apr 25, 2023
 % 
+% (c) Kaitlin Corpus, LBNL. 
 %
-%==========================================================================
+% This code is licensed under a
+% MIT License.
+% You should have received a copy of the license along with this
+% work. If not, see <https://opensource.org/license/mit/>.
+% =========================================================================
+
 
 % Add path of folder with data sets
 path = 'C:\Users\ecg\Documents\Kaitlin Kinetic Studies\Kaitlin_Kinetic_Studies\Inputs\Ag_Data_Sets_5\Ag_Data_Sets';

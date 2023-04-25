@@ -22,7 +22,7 @@ M-Files:
 	runcma.m - Runs the cma optimizer 
 	compute_CO_error - Function that calculates error of CO fits 
 	compute_H2_error - Function that calculates error of H2 fits 
-	cmaes.m - CMA optimizer 
+	cmaes.m - CMA optimizer - From MATLAB (https://www.mathworks.com/matlabcentral/fileexchange/52898-cma-es-in-matlab)
 	Connect_comsol_server.m - Connects MATLAB Livelink to COMSOL server 
         comsol_settings.m - Defines all COMSOL settings
 

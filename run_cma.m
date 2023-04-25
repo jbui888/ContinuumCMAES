@@ -1,13 +1,16 @@
 %==========================================================================
 % Main file that runs the CMA optimizer 
+%
+%    Date: Apr 25, 2023
 % 
+% (c) Kaitlin Corpus, LBNL. 
 %
-%
-% Date: April 24, 2023
-% Kaitlin Corpus 
-% 
-%
-%==========================================================================
+% This code is licensed under a
+% MIT License.
+% You should have received a copy of the license along with this
+% work. If not, see <https://opensource.org/license/mit/>.
+% =========================================================================
+
 
 % Import COMSOL API
 import com.comsol.model.*

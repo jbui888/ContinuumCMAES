@@ -1,0 +1,1 @@
+ydat: partial current densityyunit: mA/cm2ylog: false xdat: voltagexunit: RHExlog: falsecat: Agelectrolyte: KHCO3electrolyte concentration: 0.5 Mcatalyst preparation: bare Agcation: KpH: 7.3975FA: falsec0: 0.5
